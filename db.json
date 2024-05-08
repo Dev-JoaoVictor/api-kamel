@@ -2,45 +2,52 @@
   "products": [
     {
       "id": 1,
-      "title": "Ninho com morango",
-      "description": "Airpods Apple, com Estojo de Recarga, Bluetooth, Branco\nO Novo AirPods traz uma experiência nova em usar fones de ouvido sem fio. É só tirá-los do estojo e estão prontos para uso com seu iPhone, Apple Watch, iPad ou Mac. Ele oferece cinco horas de som e três horas para conversar com apenas uma carga. Eles acompanham seu ritmo graças ao estojo que proporciona várias cargas adicionais para mais de 24 horas de uso.",
+      "title": "Ninho com Morango",
+      "description": "Bolo de massa branca recheado com creme de ninho, decorado com raspas de chocolate branco e morango.",
       "price": 15,
       "cover": "https://i.imgur.com/jZIZ729.png"
     },
     {
       "id": 2,
-      "title": "Maracuja",
-      "description": "Airpods Apple, com Estojo de Recarga, Bluetooth, Branco\nO Novo AirPods traz uma experiência nova em usar fones de ouvido sem fio. É só tirá-los do estojo e estão prontos para uso com seu iPhone, Apple Watch, iPad ou Mac. Ele oferece cinco horas de som e três horas para conversar com apenas uma carga. Eles acompanham seu ritmo graças ao estojo que proporciona várias cargas adicionais para mais de 24 horas de uso.",
-      "price": 15,
+      "title": "Maracujá",
+      "description": "Bolo de massa de chocolate com recheio de maracujá.",
+      "price": 13,
       "cover": "https://i.imgur.com/QAIcD9u.png"
     },
     {
       "id": 3,
       "title": "Ninho",
-      "description": "Airpods Apple, com Estojo de Recarga, Bluetooth, Branco\nO Novo AirPods traz uma experiência nova em usar fones de ouvido sem fio. É só tirá-los do estojo e estão prontos para uso com seu iPhone, Apple Watch, iPad ou Mac. Ele oferece cinco horas de som e três horas para conversar com apenas uma carga. Eles acompanham seu ritmo graças ao estojo que proporciona várias cargas adicionais para mais de 24 horas de uso.",
-      "price": 15,
+      "description": "Bolo de massa branca recheado com creme de ninho.",
+      "price": 10,
       "cover": "https://i.imgur.com/q0RUShe.png"
     },
     {
       "id": 4,
-      "title": "Ninho e Nutella",
-      "description": "Airpods Apple, com Estojo de Recarga, Bluetooth, Branco\nO Novo AirPods traz uma experiência nova em usar fones de ouvido sem fio. É só tirá-los do estojo e estão prontos para uso com seu iPhone, Apple Watch, iPad ou Mac. Ele oferece cinco horas de som e três horas para conversar com apenas uma carga. Eles acompanham seu ritmo graças ao estojo que proporciona várias cargas adicionais para mais de 24 horas de uso.",
-      "price": 15,
+      "title": "Dois Amores",
+      "description": "Bolo de massa de chocolate recheado com creme de ninho e brigadeiro.",
+      "price": 13,
       "cover": "https://i.imgur.com/kOyXhn4.png"
     },
     {
       "id": 5,
-      "title": "Nutella com Morango",
-      "description": "Airpods Apple, com Estojo de Recarga, Bluetooth, Branco\nO Novo AirPods traz uma experiência nova em usar fones de ouvido sem fio. É só tirá-los do estojo e estão prontos para uso com seu iPhone, Apple Watch, iPad ou Mac. Ele oferece cinco horas de som e três horas para conversar com apenas uma carga. Eles acompanham seu ritmo graças ao estojo que proporciona várias cargas adicionais para mais de 24 horas de uso.",
-      "price": 15,
-      "cover": "https://i.imgur.com/PGaf13Q.png"
+      "title": "Red Velvet",
+      "description": "Bolo red velvet recheado com creme de ninho.",
+      "price": 13,
+      "cover": "https://i.imgur.com/iD3qujt.png"
     },
     {
       "id": 6,
-      "title": "Red Velvet",
-      "description": "Airpods Apple, com Estojo de Recarga, Bluetooth, Branco\nO Novo AirPods traz uma experiência nova em usar fones de ouvido sem fio. É só tirá-los do estojo e estão prontos para uso com seu iPhone, Apple Watch, iPad ou Mac. Ele oferece cinco horas de som e três horas para conversar com apenas uma carga. Eles acompanham seu ritmo graças ao estojo que proporciona várias cargas adicionais para mais de 24 horas de uso.",
-      "price": 15,
-      "cover": "https://i.imgur.com/iD3qujt.png"
+      "title": "Brigadeirão",
+      "description": "Bolo tradicional de massa de chocolate com recheio de brigadeiro.",
+      "price": 10,
+      "cover": "https://i.imgur.com/u5LwPa3.png"
+    },
+    {
+      "id": 7,
+      "title": "Cenoura",
+      "description": "Bolo de cenoura tradicional com recheio de brigadeiro.",
+      "price": 10,
+      "cover": "https://i.imgur.com/c9ZobJm.png"
     }
   ]
 }
